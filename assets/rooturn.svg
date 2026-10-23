@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rooturn</title><desc id="desc">Stories of return. Documentary and storytelling.</desc>
+  <defs><clipPath id="frame"><rect x="364" y="26" width="250" height="248" rx="120"/></clipPath></defs>
+  <rect width="640" height="300" rx="12" fill="#302922"/>
+  <g clip-path="url(#frame)"><rect x="364" y="26" width="250" height="248" fill="#9e6749"/><circle cx="512" cy="106" r="55" fill="#edce97"/><path d="M350 210 460 132 541 199 637 155V300H350Z" fill="#5f5b41"/><path d="M350 240 448 213 535 248 660 217V300H350Z" fill="#3d4438"/><path d="M484 280Q550 219 509 167" stroke="#dcc092" stroke-width="7" fill="none"/></g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f7eddb">
+    <text x="32" y="43" font-size="13" letter-spacing="2">02 / FILM + DIGITAL</text>
+    <text x="30" y="190" font-size="48" font-weight="700" letter-spacing="-1.8">Rooturn</text>
+    <text x="32" y="223" font-size="18" fill="#dfc29b">Stories of return.</text>
+    <text x="32" y="267" font-size="12" letter-spacing="1.8" fill="#dfc29b">BENIN · PEOPLE · POSSIBILITIES</text>
+  </g>
+</svg>

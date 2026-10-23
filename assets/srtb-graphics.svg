@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">SRTB Graphics</title><desc id="desc">Broadcast graphics in your browser. Public source repository.</desc>
+  <rect width="640" height="300" rx="12" fill="#e7dff2"/>
+  <g transform="translate(397 44)"><rect x="0" y="0" width="208" height="120" rx="6" fill="#4c3668"/><path d="M12 30V12H30M178 12H196V30M196 90V108H178M30 108H12V90" fill="none" stroke="#a895bf" stroke-width="2"/><rect x="23" y="67" width="151" height="16" fill="#ede5f6"/><rect x="23" y="86" width="104" height="9" fill="#c1a8de"/><path d="M0 151H208M0 178H208" stroke="#c5b7d6"/><rect x="9" y="139" width="84" height="14" rx="3" fill="#a28bbd"/><rect x="98" y="139" width="110" height="14" rx="3" fill="#73568f"/><rect x="40" y="166" width="113" height="14" rx="3" fill="#a28bbd"/><path d="M119 129V190" stroke="#4c3668" stroke-width="2"/><path d="m113 125 6 7 6-7Z" fill="#4c3668"/></g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#44305c">
+    <text x="32" y="43" font-size="13" letter-spacing="2">04 / CREATIVE TOOLING</text>
+    <text x="30" y="146" font-size="43" font-weight="700" letter-spacing="-1.6">SRTB</text>
+    <text x="30" y="190" font-size="43" font-weight="700" letter-spacing="-1.6">Graphics</text>
+    <text x="32" y="223" font-size="18">Broadcast graphics, in-browser.</text>
+    <text x="32" y="267" font-size="12" letter-spacing="1.8">PUBLIC SOURCE · CODE PUBLIC</text>
+  </g>
+</svg>

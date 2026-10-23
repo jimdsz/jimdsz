@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">MonAdresse</title><desc id="desc">Make places easier to find. Digital addresses, web and mobile.</desc>
+  <rect width="640" height="300" rx="12" fill="#e5efda"/>
+  <g fill="none" stroke="#c0d1b7" stroke-width="20"><path d="M358-30 680 248M364 330 637-20M490-20 680 146"/></g>
+  <path d="M400 248V169Q400 152 417 152H505Q521 152 521 136V100" fill="none" stroke="#285b43" stroke-width="4" stroke-dasharray="6 8"/>
+  <circle cx="400" cy="248" r="8" fill="#285b43" stroke="#e5efda" stroke-width="4"/>
+  <path d="M521 47c-24 0-42 18-42 41 0 31 42 67 42 67s42-36 42-67c0-23-18-41-42-41Z" fill="#285b43"/>
+  <circle cx="521" cy="88" r="13" fill="#e5efda"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#183d2c">
+    <text x="32" y="43" font-size="13" letter-spacing="2">01 / WEB + MOBILE</text>
+    <text x="30" y="190" font-size="43" font-weight="700" letter-spacing="-1.6">MonAdresse</text>
+    <text x="32" y="223" font-size="18">Make places easier to find.</text>
+    <text x="32" y="267" font-size="12" letter-spacing="1.8">LOCATION · SHARING · CLARITY</text>
+  </g>
+</svg>
