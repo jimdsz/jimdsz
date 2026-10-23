@@ -50,7 +50,7 @@ Un projet documentaire sur le Bénin, les parcours de retour et les vies qui se 
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/srtb-web.svg" width="100%" alt="SRTB — Media platform / Plateforme média. Pre-launch preview." />
+<a href="https://site-srtb.vercel.app/"><img src="assets/srtb-web.svg" width="100%" alt="SRTB — Media platform / Plateforme média. Pre-launch preview." /></a>
 
 ### SRTB · Web platform
 
@@ -58,10 +58,10 @@ Un projet documentaire sur le Bénin, les parcours de retour et les vies qui se 
 
 Une nouvelle expérience média qui réunit actualité, direct, replay, podcasts et programmes.
 
-[Vercel preview / Aperçu Vercel ↗](https://site-srtb-desouzajimmyjds-2193s-projects.vercel.app)
+[Vercel preview / Aperçu Vercel ↗](https://site-srtb.vercel.app/)
 
-<sub>Pre-launch · Access restricted · Not the official public launch</sub><br />
-<sub>Avant lancement · Accès protégé · La nouvelle version n’est pas encore déployée publiquement</sub>
+<sub>Public Vercel preview · Ahead of the official launch</sub><br />
+<sub>Aperçu Vercel accessible au public · Avant le lancement officiel</sub>
 
 </td>
 <td width="50%" valign="top">

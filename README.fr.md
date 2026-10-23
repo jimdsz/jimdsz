@@ -20,11 +20,11 @@ Un projet documentaire sur le Bénin, les parcours de retour et les vies qui se 
 
 Le site est en ligne et le premier film est disponible. Le projet documentaire se poursuit.
 
-### [SRTB · Plateforme web ↗](https://site-srtb-desouzajimmyjds-2193s-projects.vercel.app)
+### [SRTB · Plateforme web ↗](https://site-srtb.vercel.app/)
 
 Une nouvelle expérience média qui réunit actualité, télévision en direct, replay, podcasts et programmes, avec un CMS pour les équipes éditoriales.
 
-La nouvelle version n’est pas encore déployée publiquement. L’aperçu Vercel est protégé et peut demander une connexion. Ce lien ne constitue pas le lancement officiel du site.
+Un aperçu Vercel est accessible au public, sans connexion. La nouvelle version reste en préparation avant son lancement officiel.
 
 ### [SRTB Graphics ↗](https://github.com/jimdsz/srtb-graphics)
 
